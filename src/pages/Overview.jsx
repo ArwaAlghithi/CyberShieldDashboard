@@ -1,5 +1,4 @@
 import LeakCard from "../components/LeakCard";
-import StatCard from "../components/StatCard";
 
 function Overview() {
   return (
